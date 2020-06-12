@@ -1,5 +1,3 @@
-Hello, My Friends  
-Thank you for Having interest in this repository ! 
 
 To use this application, 
 
@@ -8,8 +6,7 @@ To use this application,
 3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
-
-If you have problem, feel free to ask me ^^ 
+This project uses like reference the Online Shop Clone project tutorial series created by the John Ann youtube channel.
 
  You can watch the tutorial for this app.
 
